@@ -249,8 +249,8 @@ main #area-projetos .container .swiper{
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
-    height: 90vh;
-    min-height: 900px;
+    height: 90vh !important;
+    min-height: 600px;
     max-height: 2160px;
     background-color: #fff;
     color: #000 !important;
